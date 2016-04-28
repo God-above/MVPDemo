@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_73df1de2fc31cce38673ce60a4dc1c2d01cfbc0a\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\libs\BmobSDK_V3.4.5_1111.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44e559d18fd5a4826b0a4c0354308213e4f658a2">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_V3.4.5_1111_473b170e2a815685ca88a500b590e6979a52eb72\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\libs\okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.4.0_ce4c26bd76b44f4cd01372d4df7555eeb74f88e8\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_89a31b37169ec00f6c6235e572bc31dcb1fcff03\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\libs\okio-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.4.0_7329fe68b2adc2576107fdd91b3aa61cc5d40d1b\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_eff17e7802774740804b459b2d0ed3cd10920b9f\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_eafcd9fe4538f8b5f078e19f505a543f6c4247dd\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\libs\Bmob_Push_V0.6beta_20150408.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db21ec99c2c7bf91c67bf80f5c5c49a92dd0562e">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\2\Bmob_Push_V0.6beta_20150408_f54f492593a8e4d13ec9fa3cb519d1ef21c160ae\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac0e1955aa87cbd887797aebb5ddd831ac7eac2c">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3df5c909d5ff4066841fa73dc8b3f9d6612e6805\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_7b91268970c99a325813c0bb883742dcf3c69996\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19c304c4a33655e8c6b2c62bde5b7b43cdb44795">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_939ccfca35662a86ca5708deb6f4cfd76bddeb7d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_7cd194c6f3f4f301c835750b93d55cdb37d12acf\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\libs\filechoose.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30877bca7d1d9f09d7bc8b6ec3e6f5cf0fcf27fb">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\2\filechoose_a13b4f2bbaad5cda39203876fc8edfa499b8f333\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_c66043b0db628d96d09491ebcd4cfc58f277e0d7\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_12d16fc09a38e2ace679938aa565f4a6b2a2e2e3\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidworkspace\MVPDemo\home\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\androidworkspace\MVPDemo\home\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_c0897d8b0ffe3123308ea82d8c996620d88b42cc\classes.dex" />
+    </item>
+
+</items>

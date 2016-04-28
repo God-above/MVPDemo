@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/acl/ACLActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/bean/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/crud/CRUDActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/file/BmobFileActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/file/Movie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/file/Song.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/location/LocationActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bmobExample/src/main/java/com/example/bmobexample/user/UserActivity.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
