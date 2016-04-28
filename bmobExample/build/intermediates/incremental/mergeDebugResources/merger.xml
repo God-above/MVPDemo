@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res"/><source path="F:\androidworkspace\MVPDemo\bmobExample\build\generated\res\rs\debug"/><source path="F:\androidworkspace\MVPDemo\bmobExample\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\androidworkspace\MVPDemo\bmobExample\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res"><file name="bmob_update_button_cancel_bg_focused" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_cancel_bg_focused.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_cancel_bg_normal" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_cancel_bg_normal.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_cancel_bg_selector" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_cancel_bg_selector.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_cancel_bg_tap" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_cancel_bg_tap.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_check_selector" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_check_selector.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_close_bg_selector" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_close_bg_selector.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_ok_bg_focused" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_ok_bg_focused.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_ok_bg_normal" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_ok_bg_normal.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_ok_bg_selector" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_ok_bg_selector.xml" qualifiers="" type="drawable"/><file name="bmob_update_button_ok_bg_tap" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_button_ok_bg_tap.xml" qualifiers="" type="drawable"/><file name="bmob_update_dialog_bg" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_dialog_bg.xml" qualifiers="" type="drawable"/><file name="bmob_update_wifi_disable" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\bmob_update_wifi_disable.png" qualifiers="" type="drawable"/><file name="selector_button" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\selector_button.xml" qualifiers="" type="drawable"/><file name="selector_list_item" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable\selector_list_item.xml" qualifiers="" type="drawable"/><file name="bmob_update_btn_check_off_focused_holo_light" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_btn_check_off_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="bmob_update_btn_check_off_holo_light" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_btn_check_off_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="bmob_update_btn_check_off_pressed_holo_light" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_btn_check_off_pressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="bmob_update_btn_check_on_focused_holo_light" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_btn_check_on_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="bmob_update_btn_check_on_holo_light" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_btn_check_on_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="bmob_update_btn_check_on_pressed_holo_light" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_btn_check_on_pressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="bmob_update_close_bg_normal" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_close_bg_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="bmob_update_close_bg_tap" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\bmob_update_close_bg_tap.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_code" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_code.xml" qualifiers="" type="layout"/><file name="activity_comment" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_comment.xml" qualifiers="" type="layout"/><file name="activity_file" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_file.xml" qualifiers="" type="layout"/><file name="activity_find" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_find.xml" qualifiers="" type="layout"/><file name="activity_local_thumbnail" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_local_thumbnail.xml" qualifiers="" type="layout"/><file name="activity_main" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_new_file" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_new_file.xml" qualifiers="" type="layout"/><file name="activity_weibo" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\activity_weibo.xml" qualifiers="" type="layout"/><file name="act_push" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\act_push.xml" qualifiers="" type="layout"/><file name="bmob_update_dialog" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\bmob_update_dialog.xml" qualifiers="" type="layout"/><file name="item_list" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\item_list.xml" qualifiers="" type="layout"/><file name="list_item" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\list_item.xml" qualifiers="" type="layout"/><file name="list_item_weibo" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\layout\list_item_weibo.xml" qualifiers="" type="layout"/><file path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\values\bmob_common_strings.xml" qualifiers=""><string name="bmob_common_start_download_notification">正在下载应用</string><string name="bmob_common_action_pause">暂停</string><string name="bmob_common_download_failed">下载失败</string><string name="bmob_common_info_interrupt">下载出错啦，请检查网络后继续。</string><string name="bmob_common_download_notification_prefix">正在下载: </string><string name="bmob_common_network_break_alert">请连接网络后再尝试！</string><string name="bmob_common_download_finish">下载完成，请点击安装</string><string name="bmob_common_action_continue">继续</string><string name="bmob_common_action_info_exist">正在下载中.</string><string name="bmob_common_pause_notification_prefix">暂停: </string><string name="bmob_common_silent_download_finish">新版本已经准备好，请点击安装</string><string name="bmob_common_start_patch_notification">正在更新安装包</string><string name="bmob_common_patch_finish">更新完成，请点击安装</string><string name="bmob_common_action_cancel">取消</string></file><file path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\values\bmob_update_string.xml" qualifiers=""><string name="BMUpdateSize">仅需要下载:</string><string name="BMUpdateNow">立即更新</string><string name="BMTargetSize">新版本大小:</string><string name="BMBreak_Network">未联网</string><string name="BMGprsCondition">（提示：非WIFI环境）</string><string name="BMAppUpdate">应用更新</string><string name="BMNotNow">以后再说</string><string name="BMUpdateTitle">发现新版本</string><string name="BMUpdateCheck">v3.1.4Beta</string><string name="BMUpdateContent">更新内容</string><string name="BMDialog_InstallAPK">最新版本已下载，是否安装？</string><string name="BMToast_IsUpdating">正在更新中....</string><string name="BMNewVersion">最新版本: </string><string name="BMIgnore">忽略该版</string></file><file path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\values\colors.xml" qualifiers=""><color name="border">#000000</color><color name="text">#000000</color><color name="border_bkg">#FFFFFF</color><color name="transparent">#00000000</color><color name="button_disable">#9C8E8E</color><color name="main_bkg">#E3DBCF</color><color name="button_text">#000000</color><color name="button_press">#F1F1F1</color><color name="button">#FFFFFF</color></file><file path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\values\strings.xml" qualifiers=""><string name="publish">发布</string><string-array name="bmob_push_list">
+        <item>1. 订阅渠道</item>
+        <item>2. 取消订阅</item>
+        <item>3. 给所有人推送</item>
+        <item>4. 给指定Android用户推送</item>
+        <item>5. 给指定IOS用户推送</item>
+        <item>6. 给指定渠道用户推送</item>
+        <item>7. 给不活跃用户推送消息</item>
+        <item>8. 给Android平台推送</item>
+        <item>9. 给IOS平台推送</item>
+        <item>10. 根据地理位置信息推送</item>
+    </string-array><string name="close">关闭</string><string name="string_local_set1">指定规格ID、宽、高</string><string-array name="bmob_code_list">
+        <item>1. 请求短信验证码</item>
+        <item>2. 验证短信验证码是否有效</item>
+        <item>3. 查询短信验证码状态</item>
+        <item>4. 自定义发送短信内容</item>
+    </string-array><string-array name="batch_action_list">
+        <item>1. 批量添加</item>
+        <item>2. 批量更新</item>
+        <item>3. 批量删除</item>
+    </string-array><string-array name="bmob_acl_list">
+        <item>1.添加ACL</item>
+        <item>2.创建角色</item>
+        <item>3.更新角色</item>
+        <item>4.删除角色</item>
+    </string-array><string name="string_local_set2">指定规格ID、宽、高、压缩质量</string><string-array name="bmob_crud_list">
+        <item>1. 创建数据</item>
+        <item>2. 更新数据</item>
+        <item>3. 删除数据</item>
+        <item>4. 查询数据</item>
+    </string-array><string-array name="bmob_user_list">
+        <item>1. 注册用户</item>
+        <item>2. 登陆用户</item>
+        <item>3. 获取本地用户</item>
+        <item>4. 退出登陆</item>
+        <item>5. 更新用户</item>
+        <item>6. 重置密码</item>
+        <item>7. 验证旧密码</item>
+        <item>8. 验证邮件</item>
+        <item>9. 查询用户</item>
+        <item>10.通过邮箱和密码登陆</item>
+        <item>11.通过手机号码和密码登陆</item>
+        <item>12.通过手机号码和短信验证码登陆</item>
+        <item>13.手机号码一键注册登录</item>
+        <item>14.通过手机验证码重置密码</item>
+        <item>15.修改当前用户密码</item>
+    </string-array><string-array name="bmob_list">
+        <item>1. 用户管理</item>
+        <item>2. 数据增删改查 </item>
+        <item>3. 数据关联</item>
+        <item>4. 批量操作</item>
+        <item>5. ACL和角色</item>
+        <item>6. 文件管理</item>
+        <item>7. 新版文件管理</item>
+        <item>8. 云端代码</item>
+        <item>9. 数据实时同步</item>
+        <item>10. 推送服务</item>
+        <item>11. 应用自动更新</item>
+        <item>12. 地理位置</item>
+        <item>13. 获取服务器时间</item>
+        <item>14. 统计查询</item>
+        <item>15. SQL语句查询</item>
+        <item>16. 短信服务</item>
+        <item>17. 表结构</item>
+    </string-array><string name="comment">评论</string><string name="string_file_1">1、单条数据，一个BmobFile列</string><string name="string_file_2">2、单条数据，多个BmobFile列</string><string-array name="bmob_statistic_list">
+        <item>1. 计算总和</item>
+        <item>2. 分组计算总和</item>
+        <item>3. 多个分组并计算多个列的总和</item>
+        <item>4. 分组计算总和并只返回满足条件的部分值</item>
+        <item>5. 分组计算总和并返回每个分组的记录数</item>
+        <item>6. 获取不重复的列值</item>
+        <item>7. 其他（平均值、最大值、最小值）</item>
+    </string-array><string name="string_pick">选择文件(用于单条数据，一个BmobFile列)</string><string name="hello_world">Hello world!</string><string name="string_file_5">5、删除文件</string><string name="string_file_3">3、多条数据，每条数据一个BmobFile列</string><string name="string_file_4">4、多条数据，每条数据多个BmobFile列</string><string name="action_settings">Settings</string><string name="app_name">BmobExample</string><string name="string_local_quality">压缩质量:</string><string name="string_local_set">指定规格ID</string><string-array name="bmob_location_list">
+        <item>1. 查询最接近某个坐标的数据</item>
+        <item>2. 查询指定距离范围内的数据</item>
+        <item>3. 查询指定矩形范围内的数据</item>
+    </string-array><string-array name="bmob_sql_list">
+        <item>1. 基本sql查询</item>
+        <item>2. 查询个数sql</item>
+        <item>3. 统计查询sql</item>
+        <item>4. 占位符查询</item>
+    </string-array><string name="string_local_width">宽度:</string><string name="share">随时随地分享…</string><string name="string_local_id">规格ID:</string><string-array name="bmob_newfile_arrays">
+        <item>1. 单一上传</item>
+        <item>2. 批量上传</item>
+        <item>3. 下载文件</item>
+        <item>4. 清除缓存</item>
+        <item>5. 获取当前缓存大小</item>
+        <item>6. 文件下载本地路径</item>
+        <item>7. 请求服务器生成缩略图任务</item>
+        <item>8. 本地生成缩略图</item>
+        <item>9. 获取文件的可访问地址</item>
+        <item>10. 删除文件</item>
+        
+    </string-array><string name="string_local_height">高度:</string><string name="title_changelog">Bmob更新日志</string><string-array name="bmob_findtest_list">
+        <item>1. 查询单个对象</item>
+        <item>2. 查询多个对象</item>
+        <item>3. count对象个数</item>
+        <item>4. 复合与查询</item>
+        <item>5. 复合或查询</item>
+    </string-array></file><file path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file name="changelog" path="F:\androidworkspace\MVPDemo\bmobExample\src\main\res\xml\changelog.xml" qualifiers="" type="xml"/></source><source path="F:\androidworkspace\MVPDemo\bmobExample\build\generated\res\rs\debug"/><source path="F:\androidworkspace\MVPDemo\bmobExample\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\androidworkspace\MVPDemo\bmobExample\src\debug\res"/></dataSet><mergedItems/></merger>

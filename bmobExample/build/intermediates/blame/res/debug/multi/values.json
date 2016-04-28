@@ -1,0 +1,1441 @@
+[
+    {
+        "outputFile": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2078,
+                        "endLine": 73,
+                        "endColumn": 19,
+                        "endOffset": 2228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endLine": 41,
+                        "endColumn": 19,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 5,
+                        "startOffset": 4302,
+                        "endLine": 142,
+                        "endColumn": 19,
+                        "endOffset": 4499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endLine": 24,
+                    "endColumn": 19,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endLine": 34,
+                        "endColumn": 19,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 1844,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endLine": 50,
+                    "endColumn": 19,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1718
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 2240,
+                        "endLine": 79,
+                        "endColumn": 19,
+                        "endOffset": 2415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1723,
+                    "endLine": 68,
+                    "endColumn": 19,
+                    "endOffset": 2109
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 5,
+                        "startOffset": 3891,
+                        "endLine": 135,
+                        "endColumn": 19,
+                        "endOffset": 4289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2114,
+                    "endLine": 80,
+                    "endColumn": 19,
+                    "endOffset": 2508
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 3093,
+                        "endLine": 113,
+                        "endColumn": 19,
+                        "endOffset": 3498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2513,
+                    "endLine": 86,
+                    "endColumn": 19,
+                    "endOffset": 2694
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 2764,
+                        "endLine": 96,
+                        "endColumn": 19,
+                        "endOffset": 2950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2699,
+                    "endLine": 95,
+                    "endColumn": 19,
+                    "endOffset": 3016
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 2427,
+                        "endLine": 89,
+                        "endColumn": 19,
+                        "endOffset": 2752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3021,
+                    "endLine": 112,
+                    "endColumn": 19,
+                    "endOffset": 3554
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endLine": 59,
+                        "endColumn": 19,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 3559,
+                    "endColumn": 40,
+                    "endOffset": 3595
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 40,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3600,
+                    "endColumn": 44,
+                    "endOffset": 3640
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 44,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 3645,
+                    "endColumn": 40,
+                    "endOffset": 3681
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 40,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 3686,
+                    "endColumn": 48,
+                    "endOffset": 3730
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 48,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3735,
+                    "endColumn": 46,
+                    "endOffset": 3777
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 46,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3782,
+                    "endColumn": 45,
+                    "endOffset": 3823
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 45,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3828,
+                    "endColumn": 42,
+                    "endOffset": 3866
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 42,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3871,
+                    "endColumn": 38,
+                    "endOffset": 3905
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 38,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3910,
+                    "endColumn": 47,
+                    "endOffset": 3953
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3958,
+                    "endColumn": 57,
+                    "endOffset": 4011
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4016,
+                    "endColumn": 55,
+                    "endOffset": 4067
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4072,
+                    "endColumn": 44,
+                    "endOffset": 4112
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 429,
+                        "endColumn": 41,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4117,
+                    "endColumn": 47,
+                    "endOffset": 4160
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4165,
+                    "endColumn": 61,
+                    "endOffset": 4222
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 607,
+                        "endColumn": 58,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4227,
+                    "endColumn": 56,
+                    "endOffset": 4279
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 331,
+                        "endColumn": 53,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 4284,
+                    "endColumn": 41,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 512,
+                        "endColumn": 38,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endColumn": 47,
+                    "endOffset": 4369
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 146,
+                        "endColumn": 44,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4374,
+                    "endColumn": 41,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 472,
+                        "endColumn": 38,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 47,
+                    "endOffset": 4459
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 285,
+                        "endColumn": 44,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4464,
+                    "endColumn": 56,
+                    "endOffset": 4516
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 552,
+                        "endColumn": 53,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4521,
+                    "endColumn": 52,
+                    "endOffset": 4569
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 667,
+                        "endColumn": 49,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4574,
+                    "endColumn": 48,
+                    "endOffset": 4618
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 192,
+                        "endColumn": 45,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4623,
+                    "endColumn": 44,
+                    "endOffset": 4663
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 386,
+                        "endColumn": 41,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4668,
+                    "endColumn": 47,
+                    "endOffset": 4711
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 239,
+                        "endColumn": 44,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4716,
+                    "endColumn": 47,
+                    "endOffset": 4759
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_update_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4764,
+                    "endColumn": 52,
+                    "endOffset": 4812
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4817,
+                    "endColumn": 48,
+                    "endOffset": 4861
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4866,
+                    "endColumn": 56,
+                    "endOffset": 4918
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 297,
+                        "endColumn": 53,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4923,
+                    "endColumn": 58,
+                    "endOffset": 4977
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 240,
+                        "endColumn": 55,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4982,
+                    "endColumn": 64,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 61,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 55,
+                    "endOffset": 5098
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 186,
+                        "endColumn": 52,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5103,
+                    "endColumn": 60,
+                    "endOffset": 5159
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 711,
+                        "endColumn": 57,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 5164,
+                    "endColumn": 66,
+                    "endOffset": 5226
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 770,
+                        "endColumn": 63,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 5231,
+                    "endColumn": 75,
+                    "endOffset": 5302
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 352,
+                        "endColumn": 72,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 5307,
+                    "endColumn": 70,
+                    "endOffset": 5373
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 117,
+                        "endColumn": 67,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5378,
+                    "endColumn": 70,
+                    "endOffset": 5444
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 70,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 5449,
+                    "endColumn": 63,
+                    "endOffset": 5508
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 835,
+                        "endColumn": 60,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 5513,
+                    "endColumn": 70,
+                    "endOffset": 5579
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 426,
+                        "endColumn": 67,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5584,
+                    "endColumn": 77,
+                    "endOffset": 5657
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 897,
+                        "endColumn": 74,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5662,
+                    "endColumn": 74,
+                    "endOffset": 5732
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 495,
+                        "endColumn": 71,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5737,
+                    "endColumn": 72,
+                    "endOffset": 5805
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\bmob_common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 568,
+                        "endColumn": 69,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5810,
+                    "endColumn": 36,
+                    "endOffset": 5842
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 36,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5847,
+                    "endColumn": 38,
+                    "endOffset": 5881
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3047,
+                        "endColumn": 38,
+                        "endOffset": 3081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 5886,
+                    "endColumn": 52,
+                    "endOffset": 5934
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 5939,
+                    "endColumn": 38,
+                    "endOffset": 5973
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 2958,
+                        "endColumn": 38,
+                        "endOffset": 2992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5978,
+                    "endColumn": 41,
+                    "endOffset": 6015
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 2998,
+                        "endColumn": 47,
+                        "endOffset": 3041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 6020,
+                    "endColumn": 60,
+                    "endOffset": 6076
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 3578,
+                        "endColumn": 60,
+                        "endOffset": 3634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 6081,
+                    "endColumn": 60,
+                    "endOffset": 6137
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 3640,
+                        "endColumn": 60,
+                        "endOffset": 3696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 6142,
+                    "endColumn": 64,
+                    "endOffset": 6202
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 3702,
+                        "endColumn": 64,
+                        "endOffset": 3762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 6207,
+                    "endColumn": 64,
+                    "endOffset": 6267
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 3768,
+                        "endColumn": 64,
+                        "endOffset": 3828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 6272,
+                    "endColumn": 48,
+                    "endOffset": 6316
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 3834,
+                        "endColumn": 48,
+                        "endOffset": 3878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 6321,
+                    "endColumn": 51,
+                    "endOffset": 6368
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 4614,
+                        "endColumn": 51,
+                        "endOffset": 4661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 6373,
+                    "endColumn": 49,
+                    "endOffset": 6418
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 4511,
+                        "endColumn": 49,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 6423,
+                    "endColumn": 54,
+                    "endOffset": 6473
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 4667,
+                        "endColumn": 54,
+                        "endOffset": 4717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 6478,
+                    "endColumn": 51,
+                    "endOffset": 6525
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 4723,
+                        "endColumn": 51,
+                        "endOffset": 4770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 6530,
+                    "endColumn": 56,
+                    "endOffset": 6582
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 4776,
+                        "endColumn": 56,
+                        "endOffset": 4828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 6587,
+                    "endColumn": 61,
+                    "endOffset": 6644
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 4834,
+                        "endColumn": 61,
+                        "endOffset": 4891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 6649,
+                    "endColumn": 50,
+                    "endOffset": 6695
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 4562,
+                        "endColumn": 50,
+                        "endOffset": 4608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 6700,
+                    "endColumn": 64,
+                    "endOffset": 6760
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 3506,
+                        "endColumn": 64,
+                        "endOffset": 3566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 6765,
+                    "endColumn": 52,
+                    "endOffset": 6813
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 52,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6818,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 7104
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 7109,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 7264
+                },
+                "from": {
+                    "file": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

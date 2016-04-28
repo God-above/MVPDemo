@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weibo.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_weibo.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_local_thumbnail.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_local_thumbnail.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_weibo.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\list_item_weibo.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_file.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_new_file.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\act_push.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\act_push.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_find.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_code.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\layout\\activity_code.xml"
+    }
+]

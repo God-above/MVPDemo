@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\androidworkspace\\MVPDemo\\bmobExample\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_item.xml",
+        "source": "F:\\androidworkspace\\MVPDemo\\bmobExample\\src\\main\\res\\drawable\\selector_list_item.xml"
+    }
+]
